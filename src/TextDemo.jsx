@@ -1,4 +1,4 @@
-import TextView from "../Ajit-EveSession/TextView";
+import TextView from "./TextView";
   
   const TextDemo = () => {
     return (
